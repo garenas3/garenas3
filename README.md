@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on going back to school!
+- 🌱 I’m currently learning about firewall tools in Linux.
+- 🤔 I’m looking for help on relearning calculus.
+
 <!--
 **garenas3/garenas3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
